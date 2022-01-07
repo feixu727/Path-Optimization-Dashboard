@@ -1,0 +1,433 @@
+﻿X,Y,objectid,name,location,address,zipcode,island,type
+-155.079285293782,19.7197085558305,1,American Savings Bank,Hilo Branch,100 Pauahi St,96720,Hawaii,Bank
+-157.861466776106,21.308420260727,2,American Savings Bank,Main Branch,1001 Bishop St.,96813,Oahu,Bank
+-156.455070895258,20.8764926923805,3,American Savings Bank,Kahului Wal-Mart Branch,101 Pakaula St.,96732,Maui,Bank
+-157.969363878772,21.39580180654,4,American Savings Bank,Pearl City Foodland Branch,1089 Wimano Home Rd,96782,Oahu,Bank
+-155.063846285978,19.6953266468843,5,American Savings Bank,Prince Kuhio Branch,111 E. Puainako St.,96720,Hawaii,Bank
+-157.975248991742,21.39834552733,6,American Savings Bank,Pearl City Wal-Mart Branch,1131 Kuala St.,96782,Oahu,Bank
+-157.843121559962,21.3016842714573,7,American Savings Bank,Makiki Branch,1209 Piikoi St.,96814,Oahu,Bank
+-157.861622270669,21.3203195576255,8,American Savings Bank,Liliha Branch,1425 Liliha ST,96817,Oahu,Bank
+-157.842761343979,21.2894917791814,9,American Savings Bank,Ala Moana Center Branch,1450 Ala Moana Blvd,96814,Oahu,Bank
+-156.680190416722,20.8776930159456,10,American Savings Bank,Lahaina Branch,154 Papalaua St.,96761,Maui,Bank
+-157.83968423545,21.2919461615878,11,American Savings Bank,Kapiolani Branch,1600 Kapiolani Blvd,96814,Oahu,Bank
+-157.869015420554,21.3356301830861,12,American Savings Bank,Kamehameha Shopping Center Branch,1620 N School,96817,Oahu,Bank
+-157.8322855957,21.2957189178487,13,American Savings Bank,McCully Branch,1806 S King St,96826,Oahu,Bank
+-157.877034871679,21.3315850196206,14,American Savings Bank,Kalihi Branch,1851 N King,96819,Oahu,Bank
+-157.741102760632,21.3907569332427,15,American Savings Bank,Kailua Branch,200C Hamakua Dr,96734,Oahu,Bank
+-157.826965583231,21.2800884487313,16,American Savings Bank,Waikiki Branch,2255 Kuhio Ave Suite 105,96815,Oahu,Bank
+-157.820681029565,21.2991544419515,17,American Savings Bank,UH Campus Branch,2445 Campus Rd,96822,Oahu,Bank
+-156.448928333773,20.7511501407906,18,American Savings Bank,Kihei Branch,255 Piikea Ave.,96753,Maui,Bank
+-157.811190685609,21.3092522570809,19,American Savings Bank,Manoa Branch,2855 E Manoa Rd,96822,Oahu,Bank
+-157.81398539643,21.2883304122057,20,American Savings Bank,Market City Foodland Branch,2939 Harding Ave,96816,Oahu,Bank
+-157.807886044452,21.2871916537946,21,American Savings Bank,Kaimuki Shopping Center Branch,3221 Waialae Ave Suite B4,96816,Oahu,Bank
+-159.381553399069,21.9717229477982,22,American Savings Bank,Kukui Grove Shopping Center Branch,3-2600 Kaumualii Hwy. #B16,96766,Kauai,Bank
+-159.381553399069,21.9717229477982,23,American Savings Bank,Kukui Grove Shopping Center Branch,3-2600 Kaumualii Hwy. #B16,96766,Kauai,Bank
+-157.708936889703,21.2852587251111,24,American Savings Bank,Hawaii Kai Branch,333 Keahole St.,96825,Oahu,Bank
+-157.021958956546,21.0901801658673,25,American Savings Bank,Molokai Branch,40 Ala Malama St.,96748,Molokai,Bank
+-157.787553157138,21.2785496745484,26,American Savings Bank,Kahala Branch,4211 Waialae Ave,96816,Oahu,Bank
+-159.365904125371,21.9732923427949,27,American Savings Bank,Lihue Branch,4318 Rice St.,96766,Kauai,Bank
+-159.365904125371,21.9732923427949,28,American Savings Bank,Lihue Branch,4318 Rice St.,96766,Kauai,Bank
+-157.801766323391,21.4175791872101,29,American Savings Bank,Kaneohe Branch,45-1144 Kamehameha Hwy,96744,Oahu,Bank
+-159.587821471216,21.9109848396869,30,American Savings Bank,Hanapepe Branch,4548 Kona Rd.,96716,Kauai,Bank
+-157.798741550806,21.4027096982981,31,American Savings Bank,Windward City Branch,45-480 Kaneohe Bay Dr Bldg D10,96744,Oahu,Bank
+-157.929010225308,21.3651573560137,32,American Savings Bank,Stadium Sack N Save Branch,4561 Salt Lake Blvd,96818,Oahu,Bank
+-159.32174408942,22.0606495694104,33,American Savings Bank,Waipouli Foodland Branch,4-771 Kuhio Hwy.,96746,Kauai,Bank
+-156.34217864791,20.8386771671735,34,American Savings Bank,Pukalani Branch,55 Pukalani St.,96768,Maui,Bank
+-157.921515062235,21.647170971929,35,American Savings Bank,Laie Foodland Branch,55-510 Kamehameha Hwy,96762,Oahu,Bank
+-158.028083996107,21.4965629380595,36,American Savings Bank,Wahiawa Branch,649 California Ave,96786,Oahu,Bank
+-155.667002998326,20.0219928915532,37,American Savings Bank,Waimea Branch,65-1158 Mamalahoa Hwy.,96743,Hawaii,Bank
+-158.103140312253,21.5878122675865,38,American Savings Bank,Haleiwa,66-197 Kamehameha Hwy,96712,Oahu,Bank
+-157.861957229687,21.2976995291658,39,American Savings Bank,677 Ala Moana Blvd,677 Ala Moana Blvd,96813,Oahu,Bank
+-156.50222300593,20.8888850814844,40,American Savings Bank,Wailuku Branch,69 N. Market St.,96793,Maui,Bank
+-157.841883082948,21.2947571880516,41,American Savings Bank,Honolulu Wal-Mart Branch,700 Keeaumoku St.,96814,Oahu,Bank
+-156.467812696903,20.8920818258494,42,American Savings Bank,Kahului Branch,73 Puunene Ave.,96732,Maui,Bank
+-155.99451451995,19.6443562163669,43,American Savings Bank,Lanihau Sack N Save Branch,75-5595 Palani Road,96740,Hawaii,Bank
+-156.487269531402,20.9056872095113,44,American Savings Bank,Wailuku Sack N Save Branch,790 Eha St.,96793,Maui,Bank
+-155.92014223516,19.5171259070584,45,American Savings Bank,Kealakekua Branch,81-6644 Mamalahoa Hwy.,96750,Hawaii,Bank
+-157.913047013444,21.3448113453494,46,American Savings Bank,Salt Lake Branch,848 Ala Lilikoi St,96818,Oahu,Bank
+-157.968930861378,21.3935790112977,47,American Savings Bank,Pearl City Branch,850 Kamehameha Hwy,96782,Oahu,Bank
+-158.184704469829,21.4353585140155,48,American Savings Bank,Waianae Branch,86-120 Farrington Hwy,96792,Oahu,Bank
+-158.150877906714,21.386587663316,49,American Savings Bank,Nanakuli Sack N Save Branch,87-2070 Farrington Hwy,96792,Oahu,Bank
+-158.08327298773,21.3329173660641,50,American Savings Bank,Kapolei Branch,890 Kamokila Blvd,96707,Oahu,Bank
+-158.023148642079,21.3337820940664,51,American Savings Bank,Ewa Town Center Branch,91-1401 Ft Weaver Rd Suite C101,96706,Oahu,Bank
+-157.85433578439,21.2975702977823,52,American Savings Bank,Queen Ward Branch,929 Queen St,96814,Oahu,Bank
+-158.023737246254,21.3777690228893,53,American Savings Bank,Waipahu Town Center Branch,94-060 Farrington Hwy,96797,Oahu,Bank
+-157.999177379536,21.4110010458718,54,American Savings Bank,Waipio Gentry Foodland Branch,94-1040 Waipio Uka St,96797,Oahu,Bank
+-158.007828908083,21.4532589894813,55,American Savings Bank,Mililani Town Center Branch,95-1249 Meheula Prkwy Bldg B9,96789,Oahu,Bank
+-157.941135562513,21.3812714712438,56,American Savings Bank,Pearlridge Branch,98-200 Kamehameha Hwy.,96701,Oahu,Bank
+-157.821547097685,21.2917072580833,57,Bank of FSM [Federated States of Micronesia],Hawaii Intra-Pacific Branch,2615 S King St Suite A203,96826,Oahu,Bank
+-157.863664352907,21.3118182237916,58,Bank of Hawaii,Chinatown,101 N King St,96817,Oahu,Bank
+-157.82189062172,21.2920917170392,59,Bank of Hawaii,University,1010 University Ave,96826,Oahu,Bank
+-157.862010705493,21.3089846333524,60,Bank of Hawaii,Main,111 S King St,96813,Oahu,Bank
+-157.760423329107,21.4454313139407,61,Bank of Hawaii,MCBH Kaneohe Bay,"1196 Fifth St, MCBH",96734,Oahu,Bank
+-155.07957707414,19.7194210465934,62,Bank of Hawaii,Kaiko’o,120 Pauahi St,96720,Hawaii,Bank
+-157.842535106367,21.3014179312652,63,Bank of Hawaii,Safeway Beretania In-Store Branch,1234 S. Beretania St.,96814,Oahu,Bank
+-156.455280819652,20.7485986125842,64,Bank of Hawaii,Kihei,"1279 S Kihei Rd, Ste B-125",96753,Maui,Bank
+-156.680635228542,20.8774010364094,65,Bank of Hawaii,Lahaina,130 Papalaua St,96761,Maui,Bank
+-157.843543388231,21.2935197537062,66,Bank of Hawaii,Ala Moana,1441 Kapiolani Blvd,96814,Oahu,Bank
+-157.839010893825,21.2980208432301,67,Bank of Hawaii,Keeaumoku,1451 S King St,96814,Oahu,Bank
+-154.946066751889,19.4938984429608,68,Bank of Hawaii,Pahoa,15-2906 Pahoa Village Rd,96778,Hawaii,Bank
+-157.878293647135,21.3257982380869,69,Bank of Hawaii,Waiakamilo,1617 Dillingham Blvd,96817,Oahu,Bank
+-157.869015420554,21.3356301830861,70,Bank of Hawaii,Times Kamehameha In-Store,"1620 N School St, Ste 108",96817,Oahu,Bank
+-156.463618510535,20.8893165207515,71,Bank of Hawaii,Kahului – Safeway,170 E Kamehameha Ave,96732,Maui,Bank
+-157.878061136396,21.332182726999,72,Bank of Hawaii,Kalihi,1950 N King St,96819,Oahu,Bank
+-157.741219792334,21.3908031568621,73,Bank of Hawaii,Kailua – Safeway,200 Hamakua Dr,96734,Oahu,Bank
+-157.857645580396,21.2951926149478,74,Bank of Hawaii,Ward Plaza,210 Ward Ave,96814,Oahu,Bank
+-156.503015729386,20.8874086764647,75,Bank of Hawaii,Wailuku,2105 Main St,96793,Maui,Bank
+-157.830300654523,21.2809369582481,76,Bank of Hawaii,Waikiki,2155 Kalakaua Ave,96815,Oahu,Bank
+-157.824254978872,21.2928156789091,77,Bank of Hawaii,Moiliili Branch,2470 S. King St.,96826,Oahu,Bank
+-157.821547097685,21.2917072580833,78,Bank of Hawaii,Hawaii Intra-Pacific Branch,2615 S King St Suite A203,96826,Oahu,Bank
+-156.466977239399,20.8905649268413,79,Bank of Hawaii,Kahului,27 S Puunene Ave,96732,Maui,Bank
+-156.454923796237,20.881268689004,80,Bank of Hawaii,Maui Marketplace,"270 Dairy Rd, Bldg J, Ste 270",96732,Maui,Bank
+-156.448605662514,20.7512741446532,81,Bank of Hawaii,Piilani – Safeway,277 Piikea Ave,96753,Maui,Bank
+-157.900973550809,21.3394730610871,82,Bank of Hawaii,Mapunapuna,"2969 Mapunapuna Pl, Ste 100",96819,Oahu,Bank
+-156.380435818676,20.9155657251114,83,Bank of Hawaii,Paia,35 Baldwin Ave,96779,Maui,Bank
+-157.799080613633,21.2828456255982,84,Bank of Hawaii,Kaimuki,3600 Waialae Ave,96816,Oahu,Bank
+-159.588564793828,21.9108882570782,85,Bank of Hawaii,Hanapepe,3764 Hanapepe Rd,96716,Kauai,Bank
+-157.706953989239,21.2861143345455,86,Bank of Hawaii,Hawaii Kai – Safeway,377 Keahole St,96825,Oahu,Bank
+-155.059151243274,19.6994130251951,87,Bank of Hawaii,Safeway Hilo In-Store Branch,381 East Makaala Street,96720,Hawaii,Bank
+-155.064866420105,19.7059129706238,88,Bank of Hawaii,Waiakea,417 E Kawili St,96720,Hawaii,Bank
+-156.677103624368,20.9718008880697,89,Bank of Hawaii,Kahana,4405 Honoapiilani Hwy,96761,Maui,Bank
+-159.369241300147,21.9750565428969,90,Bank of Hawaii,Lihue,4455 Rice St,96766,Kauai,Bank
+-157.800599239328,21.415053285063,91,Bank of Hawaii,Kaneohe,45-1001 Kamehameha Hwy,96744,Oahu,Bank
+-155.467663453718,20.0790613575532,92,Bank of Hawaii,Hamakua,45-3568 Mamane St,96727,Hawaii,Bank
+-156.918677718264,20.825179167835,93,Bank of Hawaii,Lanai,460 Eighth St,96763,Lanai,Bank
+-157.80352729746,21.4209767982071,94,Bank of Hawaii,In-Store Branch Safeway Kaneohe,46-065 Kamehameha Hwy,96744,Oahu,Bank
+-157.785064312238,21.2752788425161,95,Bank of Hawaii,Waialae-Kahala,4634 Kilauea Ave,96816,Oahu,Bank
+-155.066454563833,19.6949458673958,96,Bank of Hawaii,Puainako – KTA Store,50 E Puainako St,96720,Hawaii,Bank
+-159.473079238281,22.2132149403637,97,Bank of Hawaii,Princeville,5-4280 Kuhio Hwy,96722,Kauai,Bank
+-156.34217864791,20.8386771671735,98,Bank of Hawaii,Pukalani,55 Pukalani Street,96768,Maui,Bank
+-158.028252865352,21.4966153627662,99,Bank of Hawaii,Wahiawa,634 California Ave,96786,Oahu,Bank
+-157.742199593097,21.3941681288354,100,Bank of Hawaii,Kailua,636 Kailua Rd,96734,Oahu,Bank
+-158.103037438691,21.588702231216,101,Bank of Hawaii,Haleiwa,66-165 Kamehameha Hwy,96712,Oahu,Bank
+-155.668432840828,20.0206967394047,102,Bank of Hawaii,Kamuela,67-1191 Mamalahoa Hwy,96743,Hawaii,Bank
+-157.704974067985,21.2762190364245,103,Bank of Hawaii,Hawaii Kai,7192 Kalanianaole Hwy,96825,Oahu,Bank
+-157.814022864333,21.2803860667259,104,Bank of Hawaii,Kapahulu,727 Kapahulu Ave,96816,Oahu,Bank
+-156.00385818265,19.6493745934363,105,Bank of Hawaii,Kona,74-5457 Makala Blvd.,96740,Hawaii,Bank
+-155.963287034144,19.5714020284783,106,Bank of Hawaii,Keauhou – KTA Store,"78-6831 Alii Dr, Ste 131",96740,Hawaii,Bank
+-155.920244388113,19.5165707085291,107,Bank of Hawaii,Kealakekua,81-6638 Mamalahoa Hwy,96750,Hawaii,Bank
+-157.968930861378,21.3935790112977,108,Bank of Hawaii,Pearl City,850 Kamehameha Hwy,96782,Oahu,Bank
+-158.184704469829,21.4353585140155,109,Bank of Hawaii,Waianae,86-120 Farrington Hwy,96792,Oahu,Bank
+-158.132224868384,21.3625739105766,110,Bank of Hawaii,Kapolei - Safeway,91-590 Farrington Hwy,96707,Oahu,Bank
+-158.090777972629,21.3287382770038,111,Bank of Hawaii,Kapolei,"4480 Kapolei Parkway,  Suite 700",96707,Oahu,Bank
+-158.033481515077,21.3893131455658,112,Bank of Hawaii,Kunia,94-661 Kupuohi St,96797,Oahu,Bank
+-158.006074956914,21.3838219178701,113,Bank of Hawaii,Waipahu,94-712 Farrington Hwy,96797,Oahu,Bank
+-158.006913273843,21.4004111390815,114,Bank of Hawaii,Waikele,94-817 Lumiaina St,96797,Oahu,Bank
+-158.007828908083,21.4532589894813,115,Bank of Hawaii,Times Mililani In-Store,95-1249 Meheula Pky,96789,Oahu,Bank
+-158.015833334541,21.4584257963771,116,Bank of Hawaii,Mililani,95-221 Kipapa Dr,96789,Oahu,Bank
+-155.477213095688,19.2017572866786,117,Bank of Hawaii,Ka’u,96-3163 Pikake St,96777,Hawaii,Bank
+-157.939268933982,21.3824212544254,118,Bank of Hawaii,Pearlridge,98-211 Pali Momi St,96701,Oahu,Bank
+-157.863486599307,21.3119519971772,119,Bank of the Orient,Maunakea,"1016 Maunakea St, M-1",96817,Oahu,Bank
+-157.811260343381,21.3092129803804,120,Bank of the Orient,Manoa,2851 E Manoa Rd,96822,Oahu,Bank
+-157.862993332065,21.307387373541,121,Bank of the Orient,Principal,765 Bishop St,96813,Oahu,Bank
+-157.862390413794,21.310125460014,122,Central Pacific Bank,Bethel,1018 Bethel St,96813,Oahu,Bank
+-157.973267813267,21.3995997167575,123,Central Pacific Bank,Pearl Highlands,1030 Makolu St,96782,Oahu,Bank
+-157.824747727735,21.2754269496631,124,Central Pacific Bank,Waikiki,"105 Uluniu Ave, Ste 1101",96815,Oahu,Bank
+-157.789413927903,21.2782606667665,125,Central Pacific Bank,Kahala Instore,1173 21st Ave,96816,Oahu,Bank
+-157.840597487208,21.3006957052425,126,Central Pacific Bank,Beretania,1338 S Beretania St,96814,Oahu,Bank
+-157.877325047648,21.3249759243791,127,Central Pacific Bank,Kapalama,1535 Dillingham Blvd,96817,Oahu,Bank
+-157.841012119926,21.2925479436866,128,Central Pacific Bank,Kapiolani,1538 Kapiolani Blvd. Ste #3,96814,Oahu,Bank
+-157.830032931008,21.2949167102559,129,Central Pacific Bank,McCully,2002 S King St,96826,Oahu,Bank
+-157.878631060018,21.3327097115659,130,Central Pacific Bank,Kalihi,"2024 N King St, Ste 100",96819,Oahu,Bank
+-156.502124184445,20.8866741637594,131,Central Pacific Bank,Wailuku,2061 Wells St,96793,Maui,Bank
+-156.449642297286,20.7509256179407,132,Central Pacific Bank,Kihei,"207 Piikea Ave, Ste 6-63",96753,Maui,Bank
+-157.860761093626,21.3076537088943,133,Central Pacific Bank,Main,"220 S King St, Ste 100",96813,Oahu,Bank
+-157.828765813969,21.279028860465,134,Central Pacific Bank,Waikiki Shopping Plaza,"2250 Kalakaua Ave, Ste 103A",96815,Oahu,Bank
+-157.821547097685,21.2917072580833,135,Central Pacific Bank,Moiliili,"2615 S King St, Ste 109",96826,Oahu,Bank
+-156.469732321772,20.8894518292288,136,Central Pacific Bank,Maui Financial Center,"33 Lono Ave, Ste 400",96732,Maui,Bank
+-157.740912718117,21.3916524112008,137,Central Pacific Bank,Kailua Instore,345 Hahani St,96734,Oahu,Bank
+-157.80178466231,21.2840840572899,138,Central Pacific Bank,Kaimuki,"3465 Waialae Ave, Ste 100",96816,Oahu,Bank
+-157.742436994072,21.3951839376403,139,Central Pacific Bank,Kailua,419 Kuulei Rd,96734,Oahu,Bank
+-157.787553157138,21.2785496745484,140,Central Pacific Bank,Kahala Mall,"4211 Waialae Ave, Sp D-3",96816,Oahu,Bank
+-159.366924416773,21.974072052474,141,Central Pacific Bank,Lihue,4364 Rice St,96766,Kauai,Bank
+-157.80386152195,21.4215320420569,142,Central Pacific Bank,Kaneohe,46-077 Kamehameha Hwy,96744,Oahu,Bank
+-157.854144574463,21.2976083580838,143,Central Pacific Bank,Ward,"505 Ward Ave, 1st Fl",96814,Oahu,Bank
+-155.081416652635,19.7189346020698,144,Central Pacific Bank,Hilo,"525 Kilauea Ave, Ste 100",96720,Hawaii,Bank
+-157.714125283674,21.2826341000453,145,Central Pacific Bank,Hawaii Kai,"6600 Kalanianaole Hwy, Ste 105",96825,Oahu,Bank
+-158.084184079789,21.3319106208645,146,Central Pacific Bank,Kapolei,680 Kamokila Blvd,96707,Oahu,Bank
+-155.988579632043,19.6455484109895,147,Central Pacific Bank,Kailua-Kona,75-1010 Henry St,96740,Hawaii,Bank
+-157.838971547286,21.2945004639883,148,Central Pacific Bank,Kaheka Instore,801 Kaheka St,96814,Oahu,Bank
+-157.841102221155,21.2965052489482,149,Central Pacific Bank,Keeaumoku,"818 Keeaumoku St, Ste 102",96814,Oahu,Bank
+-157.814075634067,21.2825586481959,150,Central Pacific Bank,Kapahulu,"830 Kapahulu Ave, Ste 130",96816,Oahu,Bank
+-156.46942355069,20.890377599588,151,Central Pacific Bank,Kahului,85 W Kaahumanu Ave,96732,Maui,Bank
+-157.968930861378,21.3935790112977,152,Central Pacific Bank,Pearl City Instore,850 Kamehameha Hwy,96782,Oahu,Bank
+-158.017527899785,21.3810308275714,153,Central Pacific Bank,Waipahu,"94-210 Pupukahi St, Ste 110",96797,Oahu,Bank
+-158.033663861501,21.3909284742878,154,Central Pacific Bank,Royal Kunia Instore,94-615 Kupuohi St,96797,Oahu,Bank
+-158.004968162699,21.4549227373872,155,Central Pacific Bank,Mililani,95-720 Lanikuhana Ave,96789,Oahu,Bank
+-157.898539939325,21.343709096501,156,Central Pacific Bank,Mapunapuna,"960 Mapunapuna St, 1st Fl",96819,Oahu,Bank
+-157.944628165807,21.3846969127059,157,Central Pacific Bank,Pearlridge,"98-150 Kaonohi St, Bldg C",96701,Oahu,Bank
+-159.367163750651,21.9741127461227,158,Central Pacific Bank,Lihue,4373 Rice St,96766,Kauai,Bank
+-157.863584531912,21.3119101430186,159,Finance Factors,Chinatown,102A N King St,96817,Oahu,Bank
+-157.859236349238,21.3102182256753,160,Finance Factors,Downtown,1164 Bishop St,96813,Oahu,Bank
+-157.83968423545,21.2919461615878,161,Finance Factors,Kapiolani,"1600 Kapiolani Blvd, Ste 109",96814,Oahu,Bank
+-157.869015420554,21.3356301830861,162,Finance Factors,Kalihi,"1620 N School St, Ste 142",96817,Oahu,Bank
+-157.857297644219,21.3238245214388,163,Finance Factors,Liliha,1808 Liliha St,96817,Oahu,Bank
+-157.815420857997,21.2885223960993,164,Finance Factors,Kapahulu,2927 Kapiolani Blvd,96826,Oahu,Bank
+-157.809324130589,21.3103004378922,165,Finance Factors,Manoa,"2955 E Manoa Rd, Ste A",96822,Oahu,Bank
+-157.787553157138,21.2785496745484,166,Finance Factors,Kahala,4211 Waialae Ave,96816,Oahu,Bank
+-157.741155250589,21.39383652992,167,Finance Factors,Kailua,"602 Kailua Rd, Ste 103",96734,Oahu,Bank
+-157.968930861378,21.3935790112977,168,Finance Factors,Pearl City,850 Kamehameha Hwy,96782,Oahu,Bank
+-157.898172508697,21.3444775352163,169,First Hawaiian Bank,Moanalua Branch,1000 Mapunapuna Street,96819,Oahu,Bank
+-157.844837106809,21.3021044842897,170,First Hawaiian Bank,Makiki Branch,1111 S. Beretania Street,96814,Oahu,Bank
+-157.890939229321,21.3236395564647,171,First Hawaiian Bank,Sand Island Branch,120 Sand Island Access Road,96819,Oahu,Bank
+-155.088444808803,19.7256622053551,172,First Hawaiian Bank,Kamehameha Branch,120 Waianuenue Avenue,96720,Hawaii,Bank
+-155.076647333773,19.711155050355,173,First Hawaiian Bank,Hilo Branch,1205 Kilauea Ave.,96720,Hawaii,Bank
+-157.787426582297,21.2803548548834,174,First Hawaiian Bank,Kahala Branch,1348 Hunakai St.,96816,Oahu,Bank
+-157.861781216582,21.3203404812317,175,First Hawaiian Bank,Liliha Branch,1420 Liliha St.,96817,Oahu,Bank
+-157.840167406551,21.2921654825397,176,First Hawaiian Bank,Kapiolani Branch,1580 Kapiolani Blvd.,96814,Oahu,Bank
+-156.435993386811,20.6888886262793,177,First Hawaiian Bank,Wailea Branch,"161 Wailea Ike Place, Suite A-101",96753,Maui,Bank
+-157.862820677638,21.3105998228197,178,First Hawaiian Bank,Chinatown Branch,2 North King Street,96817,Oahu,Bank
+-156.467844240235,20.891236628567,179,First Hawaiian Bank,Kahului Branch,"20 W Kaahumanu Ave., 2nd Floor",96732,Maui,Bank
+-156.679063390297,20.8785178729472,180,First Hawaiian Bank,Lahaina Branch,215 Papalaua St.,96761,Maui,Bank
+-157.829968505833,21.2803576171724,181,First Hawaiian Bank,Waikiki Branch,2181 Kalakaua Ave.,96815,Oahu,Bank
+-157.881569804758,21.3355677668834,182,First Hawaiian Bank,Kalihi Branch,2250 No. King St.,96819,Oahu,Bank
+-157.825254596842,21.2930528397402,183,First Hawaiian Bank,University Branch,2411 S. King Street,96826,Oahu,Bank
+-157.856798551035,21.2957811830123,184,First Hawaiian Bank,Ward Branch,"250 Ward Ave., Suite 140,",96814,Oahu,Bank
+-156.501843893928,20.8882442745501,185,First Hawaiian Bank,Wailuku Branch,27 Market Street,96793,Maui,Bank
+-157.809518324895,21.3077209284679,186,First Hawaiian Bank,Manoa Branch,2764 Woodlawn Drive,96822,Oahu,Bank
+-159.381553399069,21.9717229477982,187,First Hawaiian Bank,Kukui Grove Branch,"3-2600 Kaumualii Hwy., Ste. 1023",96766,Kauai,Bank
+-159.462220206375,21.9044555133069,188,First Hawaiian Bank,Koloa Branch,3506 Waikomo Rd.,96756,Kauai,Bank
+-157.799172965913,21.2827677057339,189,First Hawaiian Bank,Kaimuki Branch,3599 Waialae Ave.,96816,Oahu,Bank
+-156.453895564683,20.7478066449477,190,First Hawaiian Bank,Kihei Branch,"41 East Lipoa St., #28",96753,Maui,Bank
+-159.318168838713,22.0760457622866,191,First Hawaiian Bank,Kapaa Branch,4-1366 Kuhio Hwy.,96746,Kauai,Bank
+-157.815773102038,21.274721380169,192,First Hawaiian Bank,Kapahulu Branch,433 Kapahulu Ave.,96815,Oahu,Bank
+-157.836044661815,21.2869474072221,193,First Hawaiian Bank,Eaton Square Branch,438 Hobron Lane,96815,Oahu,Bank
+-156.677103624368,20.9718008880697,194,First Hawaiian Bank,Kahana Branch,"4405 Honoapiilani Highway, Suite 205",96761,Maui,Bank
+-159.368540689217,21.9748287901899,195,First Hawaiian Bank,Lihue Branch,4423 Rice Street,96766,Kauai,Bank
+-157.864425245956,21.3172143492838,196,First Hawaiian Bank,King-Liliha Branch,445 N. King St.,96817,Oahu,Bank
+-159.585588681637,21.9051055513189,197,First Hawaiian Bank,Hanapepe-Eleele Branch,4469 Waialo Road,96705,Kauai,Bank
+-159.666639778364,21.9545683186141,198,First Hawaiian Bank,Waimea Branch,4525 Panako Road,96796,Kauai,Bank
+-155.466494628345,20.0785703478639,199,First Hawaiian Bank,Honokaa Branch,45-3538 Mamane Street,96727,Hawaii,Bank
+-157.798741550806,21.4027096982981,200,First Hawaiian Bank,Kaneohe Branch,"45-480 Kaneohe Bay Dr., Bldg. H",96744,Oahu,Bank
+-157.80304758594,21.4201568735312,201,First Hawaiian Bank,Kaneohe Bay Branch,"46-047 Kamehameha Hwy., Unit 11",96744,Oahu,Bank
+-159.473079238281,22.2132149403637,202,First Hawaiian Bank,Princeville Branch,5-4280 Kuhio Highway,96722,Kauai,Bank
+-157.949898973794,21.6774207086816,203,First Hawaiian Bank,Kahuku Branch,56-565 Kamehameha Hwy.,96731,Oahu,Bank
+-158.077878976442,21.3388958188652,204,First Hawaiian Bank,Kapolei Branch,590 Farrington Hwy,96707,Oahu,Bank
+-156.91902192841,20.8269870058901,205,First Hawaiian Bank,Lanai Branch,644 Lanai Ave.,96763,Lanai,Bank
+-158.102934816468,21.5896090167897,206,First Hawaiian Bank,Haleiwa Branch,66-135 Kamehameha Hwy,96712,Oahu,Bank
+-156.332091814893,20.8350130049501,207,First Hawaiian Bank,Pukalani Branch,67 Makawao Ave.,96768,Maui,Bank
+-155.668336407855,20.0207727346357,208,First Hawaiian Bank,Kamuela Branch,67-1189 Mamalahoa Highway,96743,Hawaii,Bank
+-155.787442299399,19.9268583368878,209,First Hawaiian Bank,Waikoloa Branch,68-1845 Waikoloa Road,96738,Hawaii,Bank
+-157.744244475492,21.3936929336528,210,First Hawaiian Bank,Kailua Branch,705 Kailua Road,96734,Oahu,Bank
+-157.706992996117,21.2779065587191,211,First Hawaiian Bank,Hawaii Kai Branch,7110 Kalanianaole Hwy.,96825,Oahu,Bank
+-158.02710959629,21.4970671314408,212,First Hawaiian Bank,Wahiawa Branch,730 California Avenue,96786,Oahu,Bank
+-155.993006061731,19.6472987063616,213,First Hawaiian Bank,Kona Branch,74-5593 Palani Rd,96740,Hawaii,Bank
+-155.920428399118,19.5155798830187,214,First Hawaiian Bank,Kealakekua Branch,81-6626 Mamalahoa Hwy.,96750,Hawaii,Bank
+-157.755218944719,21.2786403469901,215,First Hawaiian Bank,Aina Haina Branch,"820 Hind Drive, Suite 129",96821,Oahu,Bank
+-158.186366994279,21.4406782762597,216,First Hawaiian Bank,Waianae Branch,86-020 Farrington Hwy.,96792,Oahu,Bank
+-157.96995935069,21.3939447318026,217,First Hawaiian Bank,Pearl City Branch,890 Kamehameha Hwy.,96782,Oahu,Bank
+-158.013484633874,21.3174369087351,218,First Hawaiian Bank,Ewa Beach Branch,91-919 Fort Weaver Road,96706,Oahu,Bank
+-158.023392475912,21.3781567426119,219,First Hawaiian Bank,Waipahu Branch,94-205 Leoku St.,96797,Oahu,Bank
+-158.014171939233,21.4588795521892,220,First Hawaiian Bank,Mililani Branch,95-390 Kuahelani Ave.,96789,Oahu,Bank
+-157.938103267914,21.3845479469366,221,First Hawaiian Bank,Pearlridge Branch,98-1071 Moanalua Rd.,96701,Oahu,Bank
+-157.861496982635,21.308399378894,222,First Hawaiian Bank,Main Branch,999 Bishop Street,96813,Oahu,Bank
+-157.845994116545,21.2946382040761,223,Hawaii National Bank,Kapiolani Branch,1311 Kapiolani Blvd Suite 100,96814,Oahu,Bank
+-157.742457671294,21.3956496772665,224,Hawaii National Bank,Kailua Branch,21 Aulike Street Kailua,96734,Oahu,Bank
+-155.066111299824,19.6922897869196,225,Hawaii National Bank,Big Island,2100 Kanoelehua Avenue,96720,Hawaii,Bank
+-157.703267747193,21.2782327611426,226,Hawaii National Bank,Hawaii Kai Branch,266 Lunalilo Home Rd,96825,Oahu,Bank
+-155.086857073448,19.7257532081792,227,Hawaii National Bank,Big Island,30 Kalakaua Street,96720,Hawaii,Bank
+-157.80228836986,21.2844788973589,228,Hawaii National Bank,Kaimuki Branch,3450 Waialae Av Kaimuki,96816,Oahu,Bank
+-157.863296565409,21.3111772230305,229,Hawaii National Bank,Main & Head Office - Admin,45 N King,96817,Oahu,Bank
+-156.466805023511,20.8899125431885,230,Hawaii National Bank,Maui Island,50 South Puunene Avenue,96732,Maui,Bank
+-157.901675784385,21.3342379183226,231,Hawaii National Bank,Airport Branch,540 Lagoon Dr,96819,Oahu,Bank
+-157.862452669807,21.3077434870116,232,Hawaii National Bank,Bishop Street Branch,841 Bishop St,96813,Oahu,Bank
+-156.452175249292,20.7480097163691,233,Hawaii National Bank,Maui Island,95 East Lipoa Street,96753,Maui,Bank
+-157.95339262544,21.3900840933139,234,Hawaii National Bank,Pearl City,98-1268 Kaahumanu Pearl City,96782,Oahu,Bank
+-155.077263956624,19.7179066768927,235,Homestreet Bank,Hilo Branch,111 Aupuni St,96720,Hawaii,Bank
+-157.862797223807,21.3105577537414,236,Homestreet Bank,,2 South King,96813,Oahu,Bank
+-157.953432440759,21.3895086001182,237,Homestreet Bank,Pearl City Branch,98-1258 Kaahumanu St Suite 104,96782,Oahu,Bank
+-156.453168713264,20.884945136036,238,Homestreet Bank - MAUI MORTGAGE CENTER,Kahului Home Loan Center,"395 Dairy Road, Unit G",96732,Maui,Bank
+-157.854720342989,21.3016456596982,239,Homestreet Bank - OAHU MORTGAGE CENTER,Honolulu Lending Center,"711 Kapiolani Blvd, Ste 200",96813,Oahu,Bank
+-157.845086694388,21.2942193508934,240,Ohana Pacific Bank,,"1357 Kapiolani Boulevard, Suite 102",96814,Oahu,Bank
+-157.859452983753,21.309888194082,241,Philippine National Bank,,1145 Bishop St,96813,Oahu,Bank
+-157.861538255355,21.308507366942,242,Territorial Savings Bank,DOWNTOWN BRANCH,1000 Bishop St.,96813,Oahu,Bank
+-157.81318332617,21.2867355634353,243,Territorial Savings Bank,"KAPAHULU BRANCH, Kilohana Square","1016 Kapahulu Ave., Ste. 130",96816,Oahu,Bank
+-157.799624953515,21.2812556705587,244,Territorial Savings Bank,KAIMUKI BRANCH,"1108 12th Ave., Ste. C",96816,Oahu,Bank
+-157.829730084199,21.295824159733,245,Territorial Savings Bank,McCULLY BRANCH,1111 McCully St.,96826,Oahu,Bank
+-157.843966164942,21.301792193113,246,Territorial Savings Bank,PIIKOI BRANCH,1159 S. Beretania St.,96814,Oahu,Bank
+-157.873868384728,21.3224735927273,247,Territorial Savings Bank,KALIHI-KAPALAMA BRANCH,1199 Dillingham Blvd,96817,Oahu,Bank
+-156.455280819652,20.7485986125842,248,Territorial Savings Bank,"KIHEI BRANCH, Azeka Shopping Center Mauka","1279 S. Kihei Rd., Ste. 311",96753,Maui,Bank
+-157.842761343979,21.2894917791814,249,Territorial Savings Bank,"ALA MOANA CENTER BRANCH, Street Level, Mauka","1450 Ala Moana Blvd., Ste. 1052",96814,Oahu,Bank
+-157.869015420554,21.3356301830861,250,Territorial Savings Bank,KAMEHAMEHA SHOPPING CENTER BRANCH,"1620 North School St., Ste. 136",96817,Oahu,Bank
+-156.679872086151,20.8778997045165,251,Territorial Savings Bank,"LAHAINA BRANCH, Old Lahaina Center","170 Papalaua St., Unit 3",96761,Maui,Bank
+-157.706953989239,21.2861143345455,252,Territorial Savings Bank,"HAWAII KAI BRANCH, Hawaii Kai Shopping Center",377 Keahole St.,96825,Oahu,Bank
+-159.378093634314,21.9718309435758,253,Territorial Savings Bank,KAUAI BRANCH,4393 Kukui Grove St.,96766,Kauai,Bank
+-157.802858821023,21.4178683395596,254,Territorial Savings Bank,KANEOHE BRANCH,"46-005 Kawa St., Ste. 102",96744,Oahu,Bank
+-157.78440216354,21.2791569112009,255,Territorial Savings Bank,KAHALA BRANCH,"4819 Kilauea Ave., Ste. 4",96816,Oahu,Bank
+-155.988948543944,19.6466688823038,256,Territorial Savings Bank,"KONA BRANCH, Crossroads Shopping Center","75-1027 Henry St., Ste. 111B",96740,Hawaii,Bank
+-157.755218944719,21.2786403469901,257,Territorial Savings Bank,AINA HAINA BRANCH,"820 W. Hind Drive, Suite 118",96821,Oahu,Bank
+-157.913047013444,21.3448113453494,258,Territorial Savings Bank,"SALT LAKE BRANCH, Salt Lake Shopping Center",848 Ala Lilikoi St.,96818,Oahu,Bank
+-157.968930861378,21.3935790112977,259,Territorial Savings Bank,"PEARL CITY BRANCH, Pearl City Shopping Center","850 Kamehameha Hwy., Ste. B2",96782,Oahu,Bank
+-158.024054787404,21.3776043936352,260,Territorial Savings Bank,"WAIPAHU BRANCH, Waipahu Town Center","94-050 Farrington Hwy., Suite B1-12",96797,Oahu,Bank
+-158.001860824649,21.4269452697881,261,Territorial Savings Bank,"WAIPIO BRANCH, Laniakea Plaza","94-1221 Ka Uka Blvd., #102",96797,Oahu,Bank
+-158.007828908083,21.4532589894813,262,Territorial Savings Bank,"MILILANI BRANCH, Town Center of Mililani","95-1249 Meheula Pkwy., Ste. 168",96789,Oahu,Bank
+-157.947381429762,21.3841357546495,263,Territorial Savings Bank,PEARLRIDGE BRANCH,98-084 Kamehameha Hwy,96701,Oahu,Bank
+-157.814081978662,21.2810437680104,264,American Savings Bank,Kapahulu Branch,737 Kapahulu Ave,96814,Oahu,Bank
+-157.86363983231,21.3116984714791,265,American Savings Bank,Chinatown Branch,99 N King,96814,Oahu,Bank
+-159.317472956292,22.0770235316465,266,Bank of Hawaii,Kapaa,1407 Kuhio Hwy,96746,Kauai,Bank
+-157.022150631955,21.089875665954,267,Bank of Hawaii,Kaunakakai,20 B Ala Malama St,96748,Molokai,Bank
+-158.021546586932,21.4420523218707,268,Bank of Hawaii,Mililani – Safeway,94-780B Meheula Pky,96789,Oahu,Bank
+-157.951981207353,21.3898751154455,269,Bank of Hawaii,Waimalu,98-1277-P Kaahumanu St,96701,Oahu,Bank
+-155.987413095862,20.7505653648985,270,Bank of Hawaii,Hana,"Hana Shopping Ctr, Rm 3",96713,Maui,Bank
+-156.681433427686,20.8857414307231,271,Central Pacific Bank,Lahaina,"355 Keawe St, Bldg D",96767,Maui,Bank
+-158.020424261653,21.3270038558378,272,Central Pacific Bank,EWA BRANCH,"91-1107 Keaunui Drive, Suite 300",96706,Oahu,Bank
+-158.024993274936,21.4974171950693,273,Central Pacific Bank,Wahiawa,"935 California Ave, Shops 9 & 10",96786,Oahu,Bank
+-157.953054531766,21.3388421877675,274,First Hawaiian Bank,Hickam Branch,"30 Hickam Court, Hickam AFB",96818,Oahu,Bank
+-158.060087357828,21.4941944687731,275,First Hawaiian Bank,Schofield Branch,Bldg. 3321,96857,Oahu,Bank
+-154.946518400374,19.4938825051737,276,First Hawaiian Bank,Pahoa Branch,Government Main Rd,96778,Hawaii,Bank
+-157.86897969216,21.335665373039,277,Hawaii National Bank,Kalihi Branch,Kamehameha Shopping Center Kalihi,96817,Oahu,Bank
+-157.862835916787,21.3010437024413,278,PACIFIC RIM BANK,Two Waterfront Plaza,"500 Ala Moana Boulevard, Suite 2A",96813,Oahu,Bank
+-158.024259567438,21.3786820465337,279,"PNB - RCI [Philippine National Bank - Remittance Centers, Inc]",Waipahu,94-226 Leoku St.,96797,Oahu,Bank
+-157.855344199939,21.3165358920196,280,Territorial Savings Bank,"NUUANU BRANCH, Nuuanu Shopping Center","1613 Nuuanu Ave., Ste. A-15",96817,Oahu,Bank
+-157.744107767782,21.3949882411441,281,Territorial Savings Bank,KAILUA BRANCH,19 Oneawa St.,96734,Oahu,Bank
+-156.475296594357,20.8879638772849,282,Territorial Savings Bank,"KAHULUI BRANCH, Kaahumanu Center","275 W. Kaahumanu Ave., Ste. 1045A",96732,Maui,Bank
+-155.062086100872,19.6966680146272,283,Territorial Savings Bank,"HILO BRANCH, Waiakea Center",315 Makaala St.,96720,Hawaii,Bank
+-158.086360881916,21.3296689489637,284,Territorial Savings Bank,"KAPOLEI BRANCH, Ace Center at Kapolei","480 Kamokila Blvd., Ste. 105",96707,Oahu,Bank
+-157.970971621314,21.4018151694765,285,Aloha Federal Credit Union,Pearl City,1245 Kuala St,96782,Oahu,Credit Union
+-157.915039810686,21.3353582003499,286,Aloha Federal Credit Union,Airport Branch,550 Paiea St,96819,Oahu,Credit Union
+-157.704974067985,21.2762190364245,287,Aloha Pacific FCU,Hawaii Kai Branch,7192 Kalanianaole Hwy. Suite A144,96825,Oahu,Credit Union
+-157.851172323316,21.3034729537009,288,Aloha Pacific FCU,Main Branch,832 South Hotel St.,96813,Oahu,Credit Union
+-158.009142553925,21.4005052133599,289,Aloha Pacific FCU,Waikele Branch,94-799 Lumiaina St. Unite 2-A2,96797,Oahu,Credit Union
+-157.953264520965,21.3902916314555,290,Aloha Pacific FCU,Waimalu Branch,98-1277 Kaahumanu St. Suite 132,96701,Oahu,Credit Union
+-157.862189885944,21.3091953735644,291,Aloha Pacific FCU,Fort Street Branch,988 Fort Street Maill,96813,Oahu,Credit Union
+-157.919742617466,21.3323782268984,292,American Airlines Federal Credit Union,Honolulu International Airport,"300 Rodgers Blvd.; #36",96819,Oahu,Credit Union
+-155.046619999144,19.6366121416799,293,Big Island FCU,Puna,16-594 Kipimana Street,96749,Hawaii,Credit Union
+-157.85391726248,21.3058135932956,294,Board of Water Supply FCU,BWS,630 S Beretania St,96813-2404,Oahu,Credit Union
+-155.068792550461,19.7154074166858,295,CU Hawaii Federal Credit Union,Main Branch,476 Hinano Street,96720-4407,Hawaii,Credit Union
+-155.066454563833,19.6949458673958,296,CU Hawaii Federal Credit Union,Puainako Branch,50 E. Puainako St. Suite 112,96720,Hawaii,Credit Union
+-158.022777644009,21.5102915399179,297,Dole Wahiawa FCU,Wahiawa,1116 Whitmore Ave,96786-1333,Oahu,Credit Union
+-159.36922130228,21.9749569287566,298,Garden Island FCU,Lihue,2973 Kele Street,96766,Kauai,Credit Union
+-155.106517062105,19.8339112718841,299,Hamakua Coast Community FCU,Pepeekeo,28-490 KAAKEPA STRT,96783,Hawaii,Credit Union
+-157.854529845478,21.303497045164,300,Hawaii Central FCU,Main Office,681 S. King Street,96813,Oahu,Credit Union
+-155.464121326569,20.0715034207452,301,Hawaii Community FCU,Honokaa Branch,45-690 Pakalana St,96727,Hawaii,Credit Union
+-155.812796473717,20.2347242110098,302,Hawaii Community FCU,Kohala Branch,54-396 Union Mill Rd,96755,Hawaii,Credit Union
+-156.018861473422,19.6911590381265,303,Hawaii Community FCU,Kaloko Branch,73-5611 Olowalu St,96740,Hawaii,Credit Union
+-155.98935641633,19.6380492890157,304,Hawaii Community FCU,Kailua-Kona Branch,75-159 Hualalai Rd,96740,Hawaii,Credit Union
+-155.920453598702,19.516120469311,305,Hawaii Community FCU,Kealakekua Branch,81-6631 Mamalahoa Hwy,96750,Hawaii,Credit Union
+-155.097423063825,19.7161548219756,306,Hawaii County EFCU,Hilo,131 Puuhonu Way,96720-2067,Hawaii,Credit Union
+-157.873481792322,21.3236864858806,307,Hawaii FCU,Main Branch,1244 Kaumualii Street,96817,Oahu,Credit Union
+-157.836545615021,21.2980917064863,308,Hawaii Law Enforcement FCU,,1537 Young St 3rd Flr,96826,Oahu,Credit Union
+-158.067837196687,21.3171278185684,309,Hawaii National Guard FCU,Kalaeloa Office,91-1179 Enterprise Ave A104,96707,Oahu,Credit Union
+-157.855784905786,21.3109683965974,310,Hawaii Schools FCU,Downtown Office,233 Vineyard Street,96813,Oahu,Credit Union
+-157.85953261505,21.3087578370941,311,Hawaii State FCU,Alii Branch,1099 Alakea Street,96813,Oahu,Credit Union
+-157.807886044452,21.2871916537946,312,Hawaii State FCU,Kaimuki Branch,3221 Waialae Avenue #16-B6,96816,Oahu,Credit Union
+-156.454659775947,20.8871795834652,313,Hawaii State FCU,Kahului Branch,425 Koloa Street #101B,96732,Maui,Credit Union
+-157.8025318023,21.4212895229341,314,Hawaii State FCU,Kaneohe Branch,46-047 Kamehameha Hwy,96744,Oahu,Credit Union
+-157.860288229225,21.3025661356567,315,Hawaii State FCU,Main Branch,560 Halekauwila Street,96813,Oahu,Credit Union
+-158.078373837844,21.3395827762414,316,Hawaii State FCU,Kapolei Branch,91-590 Farrington Hwy,96707,Oahu,Credit Union
+-158.000119681991,21.467695503702,317,Hawaii State FCU,Mililani Mauka Branch,95-1095 Ainamakua Drive,96789,Oahu,Credit Union
+-157.945734573161,21.3843089500241,318,Hawaii State FCU,Pearlridge Branch,98-150 Kaonohi Street,96701,Oahu,Credit Union
+-157.870723676176,21.3161458139709,319,Hawaii Stevedores/Castle & Cooke Hi Federal Credit Union,Iwilei,650 Iwilei Rd,96817,Oahu,Credit Union
+-157.927767625208,21.3326033157199,320,Hawaiian Airlines FCU,Honolulu Airport,375 Aokea Place,96819,Oahu,Credit Union
+-157.85371105837,21.3003668472879,321,Hawaiian Electric Employees FCU,Kapiolani,770 Kapiolani Blvd. Suite 702,96813,Oahu,Credit Union
+-157.86921869776,21.3256339372027,322,Hawaiian Tel FCU,Main Branch,1138 North King Street,96817,Oahu,Credit Union
+-157.801656926226,21.2829467827282,323,Hawaiian Tel FCU,Kaimuki Branch,1144 10th Avenue,96816,Oahu,Credit Union
+-157.858896798726,21.3100733636699,324,Hawaiian Tel FCU,Bishop Branch,1177 Bishop Street,96813,Oahu,Credit Union
+-158.034241494997,21.391045806863,325,Hawaiian Tel FCU,Kunia Branch,94-595 Kupuohi St,96797,Oahu,Credit Union
+-157.861788825338,21.3149146068129,326,HawaiiUSA FCU,Main Branch,1226 College Walk,96817,Oahu,Credit Union
+-157.970819650544,21.4020073648783,327,HawaiiUSA FCU,Pearl City Branch,1245 Kuala Street,96782,Oahu,Credit Union
+-156.455312345106,20.7480430796784,328,HawaiiUSA FCU,Kihei Branch,1310 South Kihei Road,96753,Maui,Credit Union
+-157.841012119926,21.2925479436866,329,HawaiiUSA FCU,Ala Moana Branch,1538 Kapiolani Blvd. Suite 105,96814,Oahu,Credit Union
+-156.475939423951,20.887958425636,330,HawaiiUSA FCU,Kahului Branch,285 W. Kaahumanu Avenue,96732,Maui,Credit Union
+-157.797656467532,21.2821373950791,331,HawaiiUSA FCU,Kaimuki Branch,3660 Waialae Avenue,96816,Oahu,Credit Union
+-157.804139821072,21.4203734700161,332,HawaiiUSA FCU,Kaneohe Branch,46-056 Kamehameha Highway,96744,Oahu,Credit Union
+-157.712961191804,21.282104073181,333,HawaiiUSA FCU,Hawaii Kai Branch,6700 Kalanianaole Hwy. 110,96825,Oahu,Credit Union
+-158.082389229233,21.3338145725019,334,HawaiiUSA FCU,Kapolei Branch,920 Kamokila Blvd.,96707,Oahu,Credit Union
+-158.024054787404,21.3776043936352,335,HawaiiUSA FCU,Waipahu Branch,94-050 Farrington Hwy.,96797,Oahu,Credit Union
+-158.015833334541,21.4584257963771,336,HawaiiUSA FCU,Mililani Branch,95-221 Kipapa Dr.,96789,Oahu,Credit Union
+-157.930486086278,21.3790389285045,337,HawaiiUSA FCU,Aiea Branch,99-115 Aiea Heights Drive,96701,Oahu,Credit Union
+-155.063846285978,19.6953266468843,338,HFS FCU,Prince Kuhio Plaza Office,111 E Puainako Street,96720,Hawaii,Credit Union
+-158.080457648392,21.3376748895358,339,Hickam FCU,Kapolei Branch,590 Farrington Highway,96707,Oahu,Credit Union
+-158.007828908083,21.4532589894813,340,Hickam FCU,Mililani Branch,95-1249 Meheula Parkway,96789,Oahu,Credit Union
+-157.940194692975,21.3851598803406,341,Hickam FCU,Pearlridge Branch,98-1005 Moanalua Road,96701,Oahu,Credit Union
+-157.887902433597,21.3432297749339,342,HONEA FCU,,1 Ft Shafter Army Base Bldg 230,96858-3900,Oahu,Credit Union
+-157.864641883733,21.3298967148249,343,Honolulu Fire Department FCU,,1200 N School Street,96817-2013,Oahu,Credit Union
+-157.83968423545,21.2919461615878,344,Hotel & Travel Industry FCU,,1600 Kapiolani Blvd Ste 110,96814,Oahu,Credit Union
+-157.842761343979,21.2894917791814,345,Island Tradition FCU,,1450 Ala Moana Blvd 1300,96814-4524,Oahu,Credit Union
+-156.46654998129,20.8883894979,346,Kahului FCU,Kahului,25 W Kamehameha Ave,96732-2240,Maui,Credit Union
+-157.868124267558,21.3365740872456,347,Kamehameha FCU,Kam Shopping Center,1620 N School St,96817,Oahu,Credit Union
+-155.587364861132,19.0604333222868,348,Kau Federal Credit Union,,95-5664 Mamalahoa Highway,96772,Hawaii,Credit Union
+-159.36695133956,21.9764598860882,349,Kauai Community FCU,Lihue Office,4434 Hardy Street,96766,Kauai,Credit Union
+-159.38210033053,21.969564970823,350,Kauai Community FCU,Kukui Grove West Office,4493 Pahe'e Street,96766,Kauai,Credit Union
+-159.32012134851,22.0659108949544,351,Kauai Community FCU,Kapaa Office,985 Kipuni Way,96746,Kauai,Credit Union
+-159.66588408407,21.9539586180422,352,Kauai Community FCU,Waimea Office,9936 Kaumualii Highway,96796,Kauai,Credit Union
+-159.367720006353,21.973777007348,353,Kauai Teachers FCU,,2969 Umi St,96766-1345,Kauai,Credit Union
+-159.713051137937,21.9704842977436,354,Kekaha FCU,,8254 Kekaha Rd,96752,Kauai,Credit Union
+-157.861538255355,21.308507366942,355,Kuakini Medical & Dental FCU,,1000 Bishop St Ste 305,96813,Oahu,Credit Union
+-156.46283588617,20.8876968343972,356,Kula Community FCU,,137 Kalepa Place,96732,Maui,Credit Union
+-156.91949315048,20.8246882673241,357,Lanai FCU,,816 Ilima Ave,96763,Lanai,Credit Union
+-157.801371350085,21.2736869254683,358,Leahi FCU,,3675 Kilauea Ave,96816-2333,Oahu,Credit Union
+-157.882437759687,21.3275612935267,359,Local Union 1186 IBEW FCU,,1935 Hau St Ste 300,96819-5003,Oahu,Credit Union
+-158.021482893676,21.3789410806457,360,Matanuska Valley Federal Credit Union,Kunia Community Office,94-144 Farrington Hwy #113,96797,Oahu,Credit Union
+-156.499565955279,20.894553407917,361,Maui County FCU,,1888 Wili Pa Loop,96793-1272,Maui,Credit Union
+-156.46251440273,20.885721476127,362,Maui FCU,,107 E Wakea Ave,96732-2442,Maui,Credit Union
+-156.50357863245,20.8862610947409,363,Maui Teachers FCU,,2145 Wells Street #101,96793-6190,Maui,Credit Union
+-157.019505217166,21.0911293166123,364,Molokai Community FCU,,135 Puali Place,96748,Molokai,Credit Union
+-157.931535189086,21.3516667971625,365,NAVFAC FCU,,4250 Radford Dr,96818-3243,Oahu,Credit Union
+-155.46896440543,20.0794022748759,366,North Hawaii Community FCU,,45-3600 Mamane St,96727-69*,Hawaii,Credit Union
+-157.845604263941,21.3188739920013,367,Oahu FCU,,2219 Pauoa Rd,96813-1511,Oahu,Credit Union
+-157.886148936709,21.3361785355848,368,OTS EFCU,,811 Middle St,96819-2316,Oahu,Credit Union
+-157.884091260429,21.330688535678,369,Pacific Island Energy FCU,,2200 Kamehameha Hwy Ste 211,96819-2356,Oahu,Credit Union
+-157.839968576824,21.2928835864124,370,Pearl Harbor FCU,Kapiolani Branch,1580 Makaloa Street,96814,Oahu,Credit Union
+-157.914871577845,21.3353861272037,371,Pearl Harbor FCU,Airport Branch,550 Paiea Street Suite #128,96819,Oahu,Credit Union
+-157.957258963884,21.3486739834615,372,Pearl Harbor FCU,Pearl Harbor Naval Shipyard,585 Port Royal Street,96818,Oahu,Credit Union
+-157.850884419403,21.3033639414742,373,Pearl Harbor FCU,Straub Branch,846 S Hotel St Ste 101,96813-2583,Oahu,Credit Union
+-158.003068837854,21.4246878358355,374,Pearl Harbor FCU,Waipio Branch,94-449 Ukee Street,96797,Oahu,Credit Union
+-157.861361170727,21.3105605760886,375,Plumbers & Fitters Local 675 FCU,,"1109 Bethel St., Lower Level",96813,Oahu,Credit Union
+-157.871609209118,21.3234999703497,376,Prince Kuhio FCU,,740 Kohou St,96817,Oahu,Credit Union
+-157.828728167334,21.2788438642941,377,Sheraton Hawaii FCU,,2255 Kalakaua Ave Suite 3505,96815,Oahu,Credit Union
+-157.855116017599,21.3074018076832,378,The Queen's FCU,Harkness Branch,1301 Punchbowl Street,96813-2402,Oahu,Credit Union
+-157.853773892283,21.3032368335572,379,The Queen's FCU,Main Office,715 South King Street,96813-3021,Oahu,Credit Union
+-157.917272570133,21.3363146143363,380,Times FCU,,3375 Koapaka St Ste D106,96819-1862,Oahu,Credit Union
+-157.829901036165,21.2947471578068,381,University of Hawaii FCU,,2019 S King Street,96826,Oahu,Credit Union
+-156.462052118835,20.8871813911816,382,Valley Isle Community FCU,,160 Paahana St.,96732,Maui,Credit Union
+-158.122658006334,21.5705869202156,383,Waialua FCU,,"67-292 Goodale Avenue, #A2",96791-0800,Oahu,Credit Union
+-156.503122451872,20.8903915512818,384,Wailuku FCU,,175 N. Market St,96793-1717,Maui,Credit Union
+-156.675372103394,20.8787584743035,385,West Maui Community FCU,,349 Lahainaluna Rd,96761,Maui,Credit Union
+-157.743526723118,21.392428753345,386,Windward Community FCU,,116A Hekili Street,96734,Oahu,Credit Union
+-157.798741550806,21.4027096982981,387,Windward Community FCU,,45-480 Kaneohe Bay Drive,96744,Oahu,Credit Union
+-157.922886359232,21.3369825006681,388,Honolulu FCU,Airport Post Office,3600 Aolele St,96820,Oahu,Credit Union
+-157.86289273584,21.3042734756395,389,Honolulu FCU,Prince Kuhio Federal Building,"300 Ala Moana Blvd, #1-323",96813,Oahu,Credit Union
+-157.845086694388,21.2942193508934,390,Honolulu FCU,Kapiolani Office,"1357 Kapiolani Blvd, Suite G101",96814,Oahu,Credit Union
+-157.888851609761,21.3612491571975,391,Honolulu FCU,Tripler Office,459 Patterson Rd Rm 3b-101,96819,Oahu,Credit Union
+-158.037131338461,21.3398952114637,392,Ewa FCU,Ewa,91-1202A Renton Rd,96706,Oahu,Credit Union
+-157.0688950456,21.1674717675656,393,First Hawaiian Homes FCU,Hoolehua,69 Puupelua Ave,96729,Molokai,Credit Union
+-155.076297674566,19.7106718242509,394,HELCO FCU,Hilo,1200 Kilauea Ave,96720-1027,Hawaii,Credit Union
+-157.888615514691,21.3262719482009,395,Glover FCU,Sand Island,248 Sand Island Access Rd,96819,Oahu,Credit Union
+-155.076527058587,19.7109367620655,396,Hawaii First FCU,Hilo Branch,Hilo Shopping Center 1221 Kilauea Ave. St 160,96720,Hawaii,Credit Union
+-157.846226514077,21.2921047654934,397,Hawaii Pacific FCU,Main Branch,Sears Ala Moana Center 3rd floor,96814,Oahu,Credit Union
+-158.040346216764,21.4830618875363,398,Hawaiian Tel FCU,Wheeler Branch,11129 Wright Ave,96854,Oahu,Credit Union
+-157.953266662135,21.3395340442,399,Hickam FCU,Main Branch,40 Hickam Court,96818,Oahu,Credit Union
+-157.841116405477,21.2965184648312,400,HMSA EFCU,Main Branch,PO Box 860,96808-0860,Oahu,Credit Union
+-155.073118926372,19.7118227795016,401,Independent Employers Group FCU,Hilo,375 Kekuanaoa St,96720,Hawaii,Credit Union
+-157.950738657751,21.6774397916039,402,Kahuku FCU,Kahuku,56-576A Kamehameha Hwy,96731,Oahu,Credit Union
+-159.585000655679,21.9041795404645,403,Kauai Community FCU,Eleele Shopping Center,4485 Waialo Rd,96705,Kauai,Credit Union
+-159.366875827559,21.9732010057915,404,Kauai Government Employees FCU,Lihue,2976 Ewalu St,96766,Kauai,Credit Union
+-159.617818702361,21.9170338922984,405,Kaumakani FCU,Kaumakani,1-2550 Kaumualii Hwy,96747,Kauai,Credit Union
+-159.466477835732,21.9020579015588,406,Garden Island FCU,Koloa,3417 Poipu Rd,96756,Kauai,Credit Union
+-159.58514116329,21.9040737539584,407,McBryde FCU,Eleele,4469 Waialo Rd,96705,Kauai,Credit Union
+-157.875986869756,21.3191587968735,408,McCabe Hamilton & Renny FCU,,1130 N. Nimitz Hwy,96817,Oahu,Credit Union
+-157.84205855561,21.2985181380277,409,Meadow Gold Dairies FCU,Honolulu,925 Cedar St.,96814,Oahu,Credit Union
+-155.093570136553,19.7840248761372,410,Onomea FCU,Papaikou,27-251 Old Mamalahoa Hwy,96781,Hawaii,Credit Union
+-157.878839296444,21.3208415741763,411,ORAL FCU,,1331 N. Nimitz Hwy,96817,Oahu,Credit Union
+-157.884340454851,21.3308541510768,412,Schofield FCU,Kapalama Office,2200 Kamehameha Hwy,96819,Oahu,Credit Union
+-158.057917904365,21.4923503255144,413,Schofield FCU,Main Office,"Bldg 699A Sargent St, Schofield Barracks",96857,Oahu,Credit Union
+-157.85180546272,21.3287737807901,414,St Francis Medical Center FCU,,2228 Liliha St Ste 209,96817-1652,Oahu,Credit Union
+-158.027173156616,21.3484944830156,415,West Oahu Community FCU,Ewa Branch,91-1717 B Fort Weaver Road,96706,Oahu,Credit Union
+-158.184637919714,21.43546470952,416,West Oahu Community FCU,Waianae Mall,86-120 Farrington Hwy,96792,Oahu,Credit Union
+-157.87055657266,21.3162290496614,417,Aloha Pacific FCU,Dole Cannery Branch,650 Iwilei Rd,96817,Oahu,Credit Union
+-157.74043920768,21.3904012586707,418,Aloha Pacific FCU,Kailua Brach,200 Hamakua Dr,96734,Oahu,Credit Union
+-157.799071977253,21.2803178446788,419,Aloha Pacific FCU,Kaimuki Branch,3625 Harding Ave,96816,Oahu,Credit Union
+-158.081275414509,21.3347198463579,420,Aloha Pacific FCU,Kapolei Branch,1001 Kamokila Blvd,96707,Oahu,Credit Union
+-155.077861226913,19.7080907825834,421,Big Island FCU,Hilo,66 Lono St,96720,Hawaii,Credit Union
+-155.990788398479,19.6392826096499,422,Big Island FCU,Kona,75-5737 Kuakini Hwy,96740,Hawaii,Credit Union
+-155.667998515599,20.0204417807748,423,Hawaii First FCU,Kamuela Branch,67-1187 Mamalahoa Hwy,96743,Hawaii,Credit Union
+-157.796458550293,21.2615550547689,424,Hawaii National Guard FCU,Diamond Head Office,3949 Diamond Head Rd,96816,Oahu,Credit Union
+-157.941465284607,21.3822595056475,425,Hawaii Pacific FCU,Pearlridge Branch,98-1005 Moanalua Rd,96701,Oahu,Credit Union
+-158.075402438123,21.3408839792187,426,Hawaiian Tel FCU,Kapolei Branch,91-600 Farrington Hwy,96707,Oahu,Credit Union
+-158.005167385366,21.4504151399613,427,Hawaiian Tel FCU,Mililani Branch,95-550 Lanikuhana Ave,96789,Oahu,Credit Union
+-155.085904140795,19.7202591655087,428,HFS FCU,Hilo Office,632 Kinoole St,96720,Hawaii,Credit Union
+-155.040445167698,19.6209315983288,429,HFS FCU,Keaau Office,16-589 Old Volcano Rd,96749,Hawaii,Credit Union
+-155.922372503679,19.5183176425539,430,HFS FCU,Kealakekua Office,81-958 Halekii St,96750,Hawaii,Credit Union
+-155.994697687049,19.6448677799996,431,HFS FCU,Kona Coast Office,74-5586 Palani Rd,96740,Hawaii,Credit Union
+-155.667254500843,20.0219025657397,432,HFS FCU,Waimea Center Office,65-1158 Mamalaho Hwy,96743,Hawaii,Credit Union
